@@ -1,0 +1,132 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 562.5%;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 7%;
+}
+
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #D1E8E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px ;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.aryan-profile{
+  height: 150px;
+}
+.web{
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.style{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+.skill-row{
+  text-align: left;
+  line-height: 2;
+}
+.middle-container{
+  width: 50%;
+  margin: 80px auto 80px auto;
+}
+.programming{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.photography{
+  width: 30%;
+  float: right;
+  margin-right: 30px;
+}
+.intro{
+  text-align: left;
+  line-height: 2;
+}
+.my-skills{
+  margin: 80px;
+  font-size: 40px;
+}
+.hello{
+  margin: 80px;
+  font-size: 40px;
+}
+
+.contact-me{
+  padding: 80px;
+  line-height: 3;
+}
+
+.btn {
+  font-size:15px;
+  font-family:Arial;
+  width:135px;
+  height:45px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(17, 205, 212, 1);
+  font-weight:bold;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  text-shadow: 1px 1px 0px rgba(1, 1, 1, 1);
+  background:linear-gradient(rgba(17, 205, 212, 1), rgba(17, 153, 158, 1));
+  padding: 10PX;
+}
+
+.btn:hover {
+  background: linear-gradient(rgba(17, 153, 158, 1), rgba(17, 205, 212, 1));
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
